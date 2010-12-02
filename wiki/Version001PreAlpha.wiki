@@ -1,0 +1,16 @@
+#This page is intended for the Pre-Alpha 0.0.1 release
+
+= Introduction =
+
+This page provides a feature guide to the features available in various versions.
+This page is intended for the Pre-Alpha 0.0.1 release
+
+
+= Details =
+
+For the Pre-Alpha release 0.0.1, the following features are only available:
+  * *Create 'New Perl' files*
+  * *Open existing Perl files*
+  * *Save Perl file in editor*
+  * *Check Syntax of the currently selected file in editor*
+  * *Execute the selected file in editor*
