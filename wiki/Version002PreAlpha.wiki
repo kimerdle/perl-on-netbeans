@@ -1,0 +1,15 @@
+#This page is intended for the Pre-Alpha 0.0.2 release 
+
+= Introduction =
+
+This page provides a feature guide to the features available in various versions. This page is intended for the Pre-Alpha 0.0.1 release(s) 
+
+= Details =
+
+For the Pre-Alpha release 0.0.2, the following features have been added apart from the ones available in the previous release(s): 
+   * Create Perl project 
+   * Open existing Perl projects 
+   * Tidy source code by the use of Perl::Tidy
+   * Analyze code with the help of Perl::Critic
+
+_The use of Perl::Tidy and Perl::Critic requires you to download the perlonnetbeans_tidy-critic.zip file and extract the executable files to your Perl/bin folder_
