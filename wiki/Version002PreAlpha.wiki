@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page provides a feature guide to the features available in various versions. This page is intended for the Pre-Alpha 0.0.1 release(s) 
+This page provides a feature guide to the features available in various versions. This page is intended for the Pre-Alpha 0.0.2 release(s) 
 
 = Details =
 
